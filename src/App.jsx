@@ -4,7 +4,7 @@ import { v4 as uuidv4 } from "uuid";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
 import Header from "./Components/Header";
-import "./app.css";
+import "./App.css";
 import Tasks from "./Components/Tasks";
 import AddTask from "./Components/AddTask";
 import TaskDetails from "./Components/TaskDetails";
