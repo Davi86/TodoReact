@@ -1,6 +1,6 @@
 ## TODO ReactJS App
 
-Aplicação criada em React para adicionar tarefas para serem realizadas. 
+Aplicação criada em React para adicionar tarefas a serem realizadas. 
 Na aplicação podem ser feitos as seguintes ações: adicionar uma nova tarefa, remover uma tarefa, marcar uma tarefa como concluída e ver mais informações da tarefa.
 
 ### Como usar
